@@ -1,3 +1,18 @@
 <resources>
+
+    <!-- General -->
     <string name="app_name">Udacity</string>
+
+    <!-- Screen portfolio -->
+    <string name="activity_portfolio_title">My App Portfolio</string>
+    <string name="activity_portfolio_nano_degree_text">My Nanodegree Apps!</string>
+    <string name="activity_portfolio_toast_message">The button will launch my %s!</string>
+    <string name="project_spotify">SPOTIFY STREAMER</string>
+    <string name="project_scores">SCORES APP</string>
+    <string name="project_library">LIBRARY APP</string>
+    <string name="project_build_it_bigger">BUILD IT BIGGER</string>
+    <string name="project_bacon_reader">BACON READER</string>
+    <string name="project_capstone">CAPSTONE: MY OWN APP</string>
+
+
 </resources>
